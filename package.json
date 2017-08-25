@@ -20,17 +20,21 @@
   "homepage": "https://github.com/ganesh-91/react-form-builder#readme",
   "peerDependency": {
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "bootstrap": "^4.0.0-beta"
   },
   "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-loader": "^7.0.0",
     "babel-preset-env": "^1.4.0",
     "babel-preset-react": "^6.24.1",
+    "bootstrap": "^4.0.0-beta",
     "cross-env": "^4.0.0",
+    "css-loader": "^0.26.4",
     "highlight.js": "^9.11.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
+    "style-loader": "^0.13.2",
     "webpack": "^2.4.1"
   }
 }
